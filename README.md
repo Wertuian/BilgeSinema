@@ -1,2 +1,2 @@
-# BilgeSinema
-Katmanlı Mimari Mvc Projesi
+# BilgeSinema-Api
+
